@@ -1,0 +1,21 @@
+{
+    "login":
+    [
+        {
+            "name": "anvi",
+            "email": "anvi@gmail.com",
+            "mobile":"9921038026",
+            "role": "admin",
+            "password":"123"
+        }
+        ,
+        {
+            "name": "mayra",
+            "email": "mayra@gmail.com",
+            "mobile":"9921038026",
+            "role": "user",
+            "password":"124"
+        }
+
+    ]
+}

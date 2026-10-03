@@ -1,0 +1,28 @@
+{
+  "bookings": [
+    {
+      "bookingId": "B101",
+      "customerName": "Amit Verma",
+      "roomNumber": "201",
+      "roomType": "Deluxe",
+      "checkInDate": "2026-08-01",
+      "checkOutDate": "2026-08-05",
+      "guests": 2,
+      "mobileNumber": "9876543210",
+      "totalAmount": 12000,
+      "bookingStatus": "Confirmed"
+    },
+    {
+      "bookingId": "B102",
+      "customerName": "Sneha Patil",
+      "roomNumber": "305",
+      "roomType": "Suite",
+      "checkInDate": "2026-08-10",
+      "checkOutDate": "2026-08-12",
+      "guests": 3,
+      "mobileNumber": "9123456789",
+      "totalAmount": 18000,
+      "bookingStatus": "Pending"
+    }
+  ]
+}

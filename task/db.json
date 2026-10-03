@@ -1,0 +1,23 @@
+{
+    "purchase":[
+        {
+            "employeeName": "",
+    "department": "Development",
+    "itemName": "",
+    "category": "Electronics",
+    "quantity": "",
+    "unitPrice": "",
+    "requestDate": ""
+        },
+        {
+            "employeeName": "",
+    "department": "Development",
+    "itemName": "",
+    "category": "Electronics",
+    "quantity": "",
+    "unitPrice": "",
+    "requestDate": ""
+        }
+
+    ]
+}

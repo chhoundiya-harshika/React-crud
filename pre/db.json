@@ -1,0 +1,41 @@
+{
+  "services": [
+    {
+      "customerName": "",
+      "vehicleNumber": "",
+      "vehicleType": "Car",
+      "serviceType": "Basic Service",
+      "bookingDate": "",
+      "id": "mBLzDlEpHZw"
+    },
+    {
+      "customerName": "",
+      "vehicleNumber": "",
+      "vehicleType": "Car",
+      "serviceType": "Basic Service",
+      "bookingDate": "",
+      "id": "D4TLE4GYlkQ"
+    },
+    {
+      "customerName": "hhgh",
+      "vehicleNumber": "zuytuyat",
+      "vehicleType": "Bike",
+      "serviceType": "Full Service",
+      "bookingDate": "2026-08-10",
+      "serviceCharge": 3000,
+      "status": "Confirmed",
+      "id": "o6qU3b9t57A"
+    },
+    {
+      "customerName": "jhgjhgj mabw",
+      "vehicleNumber": ",bnkjh",
+      "vehicleType": "Car",
+      "serviceType": "Basic Service",
+      "bookingDate": "2026-07-26",
+      "serviceCharge": 1500,
+      "status": "Cancelled",
+      "id": "j9-0esOVsyM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

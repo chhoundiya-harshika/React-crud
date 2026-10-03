@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "serviceId": "S101",
+      "customerName": "Karan Singh",
+      "vehicleNumber": "MH12AB1234",
+      "vehicleModel": "Honda City",
+      "serviceType": "Full Service",
+      "mechanicName": "Rakesh",
+      "serviceDate": "2026-07-28",
+      "serviceCost": 5500,
+      "contactNumber": "9876501234",
+      "serviceStatus": "Completed"
+    },
+    {
+      "serviceId": "S102",
+      "customerName": "Pooja Joshi",
+      "vehicleNumber": "MH14CD5678",
+      "vehicleModel": "Hyundai Creta",
+      "serviceType": "Oil Change",
+      "mechanicName": "Mahesh",
+      "serviceDate": "2026-07-29",
+      "serviceCost": 1800,
+      "contactNumber": "9123456780",
+      "serviceStatus": "Pending"
+    }
+  ]
+}

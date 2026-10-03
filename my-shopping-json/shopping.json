@@ -1,0 +1,28 @@
+{
+  "orders": [
+    {
+      "orderId": "O101",
+      "customerName": "Rohit Sharma",
+      "productName": "Laptop",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 65000,
+      "orderDate": "2026-07-25",
+      "paymentMethod": "UPI",
+      "deliveryAddress": "Pune",
+      "orderStatus": "Delivered"
+    },
+    {
+      "orderId": "O102",
+      "customerName": "Neha Gupta",
+      "productName": "Headphones",
+      "category": "Electronics",
+      "quantity": 2,
+      "price": 3000,
+      "orderDate": "2026-07-27",
+      "paymentMethod": "Cash on Delivery",
+      "deliveryAddress": "Mumbai",
+      "orderStatus": "Shipped"
+    }
+  ]
+}
